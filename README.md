@@ -1,5 +1,7 @@
 # Tracking Particle Events from the CERN Simulated Particle Accelerator Data
 
+![The Large Hadron Collider at CERN in Geneva](https://www.popsci.com/uploads/2022/07/06/Depositphotos_287972174_L.jpg?auto=webp&width=1440&height=960%2048)
+
 This notebook is my work based on the TrackML Kaggle competition (2018), which can be accessed [here](https://www.kaggle.com/competitions/trackml-particle-identification). 
 
 In this project, I explore the data given to us in the competition. I then employ two semi-supervised and two unsupervised machine learning techniques to predict particle tracks made through the detector using given particle hit data.
